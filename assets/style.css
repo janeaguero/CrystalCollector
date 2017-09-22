@@ -1,0 +1,67 @@
+@charset "utf-8";
+/*CSS Document*/
+
+body{
+	background:black;
+}
+
+div{
+    margin:0 15px 15px 0;
+    padding:0 15px 0 15px;
+}
+
+h1{
+    color:white;
+}
+
+.title{
+    position:relative;
+    float:left;
+	width:300px;
+	background:pink;
+}
+
+.explanation{
+    position:relative;
+    clear:left;
+	background:magenta;
+	color:black;
+    width:300px;
+    padding:15px;
+}
+
+.randomNumber{
+    position:relative;
+    float:left;
+    width:80px;
+    height:80px;
+    background:blue;
+}
+
+.winsLosses{
+    position:relative;
+    float:left;
+    background:pink;
+    width:80px;
+    height:80px;
+}
+
+button{
+    position:relative;
+    float:left;
+    margin:0 15px 15px 0;
+}
+
+button img{
+    width:80px;
+    height:80px;
+}
+
+.totalScore{
+    position:relative;
+    float:left;
+    background:teal;
+    width:150px;
+    height:150px;
+}
+
